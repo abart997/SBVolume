@@ -1,0 +1,9 @@
+Package: com.abart997.sbvolume
+Name: SBVolume
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Volume buttons right in your SB
+Maintainer: Andrea Oliva
+Author: Andrea Oliva
+Section: Tweaks
